@@ -45,7 +45,7 @@
         <dependency>
             <groupId>io.minio</groupId>
             <artifactId>minio</artifactId>
-            <version>8.5.11</version>
+            <version>8.5.17</version>
             <optional>true</optional>
         </dependency>
 
