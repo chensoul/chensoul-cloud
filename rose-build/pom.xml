@@ -27,7 +27,7 @@
         <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
         <maven-gpg-plugin.version>3.2.7</maven-gpg-plugin.version>
         <jacoco-maven-plugin.version>0.8.13</jacoco-maven-plugin.version>
-        <flatten-maven-plugin.version>1.6.0</flatten-maven-plugin.version>
+        <flatten-maven-plugin.version>1.7.0</flatten-maven-plugin.version>
         <!-- jdk 8 需要 2.22.0 版本-->
         <spotless-maven-plugin.version>2.22.0</spotless-maven-plugin.version>
         <git-commit-id-plugin.version>4.9.10</git-commit-id-plugin.version>
