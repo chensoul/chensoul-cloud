@@ -24,7 +24,7 @@ services:
       - "3306:3306"
 
   rose-nacos:
-    image: nacos/nacos-server:v2.2.3-slim
+    image: nacos/nacos-server:v2.5.1-slim
     container_name: rose-nacos
     restart: always
     environment:
